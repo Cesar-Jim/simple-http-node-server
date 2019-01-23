@@ -13,7 +13,7 @@ const requestHandler = (request, response) => {
 const server = http.createServer(requestHandler);
 
 
-// Start the server. Listen on port 3000
+// Start the server. Listen on port 3000 (Asynchronously)
 server.listen(port, (err) => {
    if (err) {
       return console.log(`You have an error: ${err}.`)
