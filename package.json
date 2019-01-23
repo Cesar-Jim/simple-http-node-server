@@ -1,0 +1,23 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "Creation of an HTTP server using the fs module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesar-Jim/simple-http-node-server.git"
+  },
+  "keywords": [
+    "http",
+    "server"
+  ],
+  "author": "Cesar Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cesar-Jim/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/Cesar-Jim/simple-http-node-server#readme"
+}
